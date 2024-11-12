@@ -1,0 +1,5 @@
+{
+	"selector": "source.nss",
+	"cancel": {"kill": true},
+	"shell_cmd": "powershell -c \"C:/Users/Cory/Desktop/Resources/Tools/neverwinter.nim/nwn_script_comp.exe\" -s -c \"C:/Users/Cory/Desktop/Resources/nwserver/user/modules/source/nss\"",
+}
