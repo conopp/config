@@ -1,5 +1,6 @@
 {
 	"selector": "source.nss",
 	"cancel": {"kill": true},
+	// todo: have powershell grab the location of the folder the building script is in, and compile all of that specific folder instead of this static one
 	"cmd": ["powershell", "nwn_script_comp -s -c //wsl.localhost/Ubuntu/home/user/nwserver/user/modules/source/nss"],
 }
