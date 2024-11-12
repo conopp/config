@@ -65,6 +65,4 @@
 	"goto_anything_exclude_gitignore": false,
 	"index_files": true,
 	"update_check": false,
-	"dark_theme": "Default.sublime-theme",
-	"light_theme": "Adaptive.sublime-theme",
 }
